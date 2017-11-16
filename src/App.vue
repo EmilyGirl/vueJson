@@ -23,7 +23,7 @@ export default {
   data() {
     return {
       leftText: [
-        { text: '数据管理', href: '/'},
+        { text: '数据管理1', href: '/'},
         { text: '产品管理', href: '/productManagement'},
         { text: '文件管理', href: '/fileManagement'},
       ],
